@@ -20,7 +20,7 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "FAN",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
 "INTER_COUNT" : 3,
 
